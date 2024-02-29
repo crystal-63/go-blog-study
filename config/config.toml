@@ -1,0 +1,20 @@
+#配置文件
+[viewer]
+Title = "我的Go语言博客"
+Description = "我的Go语言博客"
+Logo = "/resource/images/logo.png"
+Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+Bilibili = "https://space.bilibili.com/473844125"
+Zhihu = "https://www.zhihu.com/people/ma-shen-zhi-lu"
+Avatar = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13147603927%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647242040&t=c6108010ed46b4acebe18955acdd2d24"
+UserName = "Wealthy"
+UserDesc = "迟早暴富"
+[system]
+CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+QiniuAccessKey = "91EZcQ30iWXVt07WzdVUXZADHfkpIq7cNC92SMn7"
+QiniuSecretKey = "eMGLE4G6le8_b9HwZtTcsw8M4AHif0uV_SvoxQPF"
+QiniuServer = "s9m2njvuw.hd-bkt.clouddn.com"
+Valine = true
+ValineAppid = "3ETHwDtNkyTCChk2sYQdiPYH-gzGzoHsz"
+ValineAppkey = "KHiGL4tNFF6lyjM0aIyZs6b6"
+ValineServerURL = "https://3ethwdtn.lc-cn-n1-shared.com"
